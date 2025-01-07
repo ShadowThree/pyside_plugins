@@ -1,0 +1,4 @@
+**/__pycache__/
+**/output/
+**/*_ui.py
+**/*_rc.py
